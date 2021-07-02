@@ -1,4 +1,4 @@
-baseURL = "https://learncloudassembly.github.io"
+baseURL = "https://learnservicebroker.github.io"
 languageCode = "en-gb"
 title = "Learn Service Broker"
 theme = "hugo-theme-techdoc"
@@ -12,12 +12,12 @@ enableGitInfo = true
     logo = "/images/service-broker.svg"
 
     # Source Code repository section
-    description = "VMware vRealize Automation"
-    # github_repository = "https://github.com/learncodestream/learncodestream"
+    description = "Part of VMware vRealize Automation"
+    # github_repository = "https://github.com/cmbu-tmm-sites/learnservicebroker"
 
     # Documentation repository section
     # documentation repository (set edit link to documentation repository)
-    github_doc_repository = "https://github.com/learncodestream/learncodestream"
+    github_doc_repository = "https://github.com/cmbu-tmm-sites/learncodestream"
     github_doc_branch = "main"
 
     # Analytic section
@@ -29,8 +29,8 @@ enableGitInfo = true
     # Open Graph settings for each page are set on the front matter.
     # See https://gohugo.io/templates/internal/#open-graph
     # See https://gohugo.io/templates/internal/#twitter-cards
-    title = "Hugo Techdoc Theme"
-    images = ["images/og-image.png"] # Open graph images are placed in `static/images`
+    title = "Learn Service Broker"
+    images = ["/images/service-broker.svg"] # Open graph images are placed in `static/images`
 
     # Theme settings section
     # Theme color
