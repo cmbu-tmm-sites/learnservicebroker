@@ -1,6 +1,6 @@
 baseURL = "https://learncloudassembly.github.io"
 languageCode = "en-gb"
-title = "Learn Cloud Assembly"
+title = "Learn Service Broker"
 theme = "hugo-theme-techdoc"
 # Required to get well formatted code blocks
 pygmentsUseClasses = true
@@ -9,10 +9,10 @@ disablePathToLower = true
 enableGitInfo = true
 
 [params]
-    logo = "/images/cloud-assembly.png"
+    logo = "/images/service-broker.svg"
 
     # Source Code repository section
-    description = "put your description"
+    description = "VMware vRealize Automation"
     # github_repository = "https://github.com/learncodestream/learncodestream"
 
     # Documentation repository section
