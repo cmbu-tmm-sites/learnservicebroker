@@ -3,4 +3,8 @@ title: "Content & Policies"
 weight: 100
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The Content & Policies tab allows Service Broker administrators to configure Service Broker.
+* [Content Sources](/Content-and-Policies/Content-Sources/) - configure the sources for catalog items
+* [Content Sharing](/Content-and-Policies/Content-Sharing/) - configure which catalog items are available to which Projects
+* [Content](/Content-and-Policies/Content/) - view and configure all the configured catalog items and custom forms
+* [Policies](/Content-and-Policies/Policies/) - define and enforce policies for catalog items

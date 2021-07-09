@@ -3,4 +3,11 @@ title: "Deployments"
 weight: 200
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The Deployments tab provides the Service Broker user with visibility of provisioned Deployments and Resources they have permissions to view or manage. This is the same view that is available in Cloud Assembly -  more details are available on the [Deployments page of the Learm Cloud Assembly site](https://learncloudassembly.github.io/Deployments/).
+
+The Resources tab allows you to view and manage the resources provisioned as part of your deployments - you can see more information on the [Resources page of the Learn Cloud Assembly site](https://learncloudassembly.github.io/Deployments/Resources/)
+
+{{< img src="deployment-page.png" alt="Deployments list" >}}
+
+
+
