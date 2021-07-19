@@ -92,3 +92,14 @@ In the example day 2 actions policy below, Members of the Development Project wi
 In this example approval policy the scope is limited to the "TMC Kubernetes Cluster - Custom" Cloud Template in the Production Project. Any use of the custom Day 2 action to add a new Node Pool to the resource will require approval by the listed Approvers.
 
 {{< img src="approval-policy-example.png" alt="Example Approval Policy" >}}
+
+
+## Links and References
+
+* [How do I configure Service Broker approval policies](https://docs.vmware.com/en/VMware-Service-Broker/services/Using-and-Managing/GUID-A0247106-6668-46C5-A462-CA5C85232FD0.html)
+* [How do I entitle deployment users to Service Broker day 2 actions using policies](https://docs.vmware.com/en/VMware-Service-Broker/services/Using-and-Managing/GUID-AB957C4B-7D0F-4E43-9CAE-A86FFF4331EE.html)
+* [How do I configure Service Broker deployment leases using policies](https://docs.vmware.com/en/VMware-Service-Broker/services/Using-and-Managing/GUID-87B2B204-3B4F-458F-826E-82CE7246FDA4.html)
+* [How do I configure Service Broker resource quotas using policies](https://docs.vmware.com/en/VMware-Service-Broker/services/Using-and-Managing/GUID-67A41C1F-1F30-402F-8F4E-FA1074598888.html)
+* [How do I configure scope in Service Broker policies](https://docs.vmware.com/en/VMware-Service-Broker/services/Using-and-Managing/GUID-55A2E2B6-C4D0-4128-8C50-DAD10EE46B10.html)
+* [How do I configure deployment criteria in Service Broker policies](https://docs.vmware.com/en/VMware-Service-Broker/services/Using-and-Managing/GUID-B2D6479E-B3BD-4933-BF2E-93BAAAA40756.html)
+* [How are Service Broker policies processed](https://docs.vmware.com/en/VMware-Service-Broker/services/Using-and-Managing/GUID-862C2D58-849B-4580-8B5B-3D6EBBE872F5.html)
