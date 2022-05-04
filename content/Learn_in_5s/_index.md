@@ -1,6 +1,5 @@
 ---
-title: "Multi-Level Approvals"
-weight: 500
+title: "Learn in 5s"
+weight: 900
 ---
 
-### Multi-Level Approvals
